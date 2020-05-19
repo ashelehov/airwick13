@@ -12,4 +12,7 @@
 4) если свет долго не выключается (напр. больше часа), значит забыли выключить, продолжаем брызгать.<br>
 <hr>
 <p>В текущей версии прошивки 3 режима: "пшикаем" через час, 3 часа и 6 часов. По умолчанию стоит 2 режим. Минимальное время включения света 2.5 минуты. По <a href="https://cxem.net/house/1-464.php">ссылке</a> мой проект на сайте паяльник, там есть первая версия прошивки с возможностью выбора минимального времени включения света.</p>
-<img src="https://raw.githubusercontent.com/ashelehov/airwick13/master/img/airwick.jpg" alt="airwick">
+<p><img src="https://raw.githubusercontent.com/ashelehov/airwick13/master/img/airwick.jpg" alt="airwick"></p>
+<p><img src="https://raw.githubusercontent.com/ashelehov/airwick13/master/img/chart.png" alt="chart"></p>
+<p><img src="https://raw.githubusercontent.com/ashelehov/airwick13/master/img/test.jpg" alt="test"></p>
+<p><img src="https://raw.githubusercontent.com/ashelehov/airwick13/master/img/intro.jpg" alt="intro"></p>

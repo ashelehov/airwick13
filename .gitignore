@@ -1,0 +1,8 @@
+.dep
+main.eep
+main.elf
+main.lss
+main.lst
+main.map
+main.o
+main.sym

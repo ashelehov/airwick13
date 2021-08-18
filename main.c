@@ -19,11 +19,11 @@
 #include <stdbool.h>
 
 // Пины
-#define PIN_MOTOR 			PB0
-#define PIN_BUTTON_MOTOR 	PB1
-#define PIN_BUTTON_MODE 	PB2
-#define PIN_LED_N 			PB3
-#define PIN_LED_P 			PB4
+#define PIN_MOTOR			PB0
+#define PIN_BUTTON_MOTOR	PB1
+#define PIN_BUTTON_MODE		PB2
+#define PIN_LED_N			PB3
+#define PIN_LED_P			PB4
 
 // множитель wdt n=9.6 (время в секундах делим на n)
 

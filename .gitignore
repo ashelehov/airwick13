@@ -1,0 +1,4 @@
+.vscode
+.dep
+main.*
+!main.c
